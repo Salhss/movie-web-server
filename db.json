@@ -1,0 +1,1094 @@
+{
+    "movie": [
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYzM2OTU5ZjQtZWMyZC00MGZhLThhM2YtOWMyYjZmODM0Y2E5XkEyXkFqcGdeQXVyNjk2MTY2NjI@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Horror",
+        "id": "tt8290478",
+        "title": "The Sleep Experiment",
+        "imdbrating": 7.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Two detectives begin an investigation into a disastrous secret military experiment where five prisoners were kept awake for thirty days in a sealed gas chamber."
+      },
+      {
+        "imageurl":"https://m.media-amazon.com/images/M/MV5BMDg0ZTk4M2UtNjMzOS00YTc5LTkzOWEtYjViZTE1N2FlNmE4XkEyXkFqcGdeQXVyMjM1NjkxOTI@._V1_UY268_CR11,0,182,268_AL_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt8288142",
+        "title": "The Gag Date",
+        "imdbrating": 7.0,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Jim Peters is an older man who finds himself trying to get back into the love scene. However it is not as easy as he thought. From finding the right woman, to the expensive dates and even ..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNTA1NjU0MzgtZTlmYS00MGNjLWE0ZmQtZjY4MmMyMGE0YTgyXkEyXkFqcGdeQXVyMzUzOTc2MTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt8286236",
+        "title": "Chaser",
+        "imdbrating": 7.5,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A video editor discovers the power to re-edit the last 24 hours."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNTAxMWYyYzYtNWZkMi00NDVkLWE0NDgtYTMzNGI0NDVhNGI0XkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_UY268_CR9,0,182,268_AL_.jpg",
+        "genre": "Crime",
+        "imdbid": "tt8282400",
+        "title": "Saade Aale",
+        "imdbrating": 8.7,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Two athletic brothers fall in the fastidious and lethal labyrinth of society."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMTAxMTU4OTgtYTczZC00N2E4LWI0NzQtZjg2NTRmYjNjMzNjXkEyXkFqcGdeQXVyMzg2MDg5MDc@._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "genre": "Thriller",
+        "imdbid": "tt8241048",
+        "title": "Girl from the Woods",
+        "imdbrating": 8.0,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BODFhYWJmODgtMzBmZS00YWJkLTk4ZDAtNmU5ZDc2MTcyZjJjXkEyXkFqcGdeQXVyNTYwNTM0MjQ@._V1_UY268_CR12,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt8228826",
+        "title": "Freedom on Our Mind",
+        "imdbrating": 8.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A diverse group of film students discover the connections between their own lives and the epic struggle for the Civil Rights Act of 1964 while trying to finish their graduation film in the Nation's oldest city."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMWYzY2IwOGEtM2UxYi00MzFhLThkZTEtOGUzZmUzMjc2NTRmXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt8174412",
+        "title": "Funny Pages",
+        "imdbrating": 7.4,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A bitingly funny coming-of-age story of a teenage cartoonist who rejects the comforts of his suburban life in a misguided quest for soul."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMGZjNGZjNTQtMjNlMi00ZjJlLWEyYjgtZjIwYTNmMjE1Mzk1XkEyXkFqcGdeQXVyNDk5NjE5NTg@._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "genre": "Documentary",
+        "imdbid": "tt8151794",
+        "title": "Capel Green",
+        "imdbrating": 7.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Capel Green is a powerful, independent feature length documentary film about the myriad of strange occurrences which took place in and around Rendlesham Forest, close to the twin US Air ..."
+      },
+      {
+        "imageurl": "https://th.bing.com/th/id/OIP.vrQ04_cf1ZhTVbLi7HQc2AHaK4?pid=ImgDet&rs=1",
+        "genre": "Comedy",
+        "imdbid": "tt8147518",
+        "title": "Uma Pitada de Sorte",
+        "imdbrating": 8.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Pérola lives with her mother and her younger adopted brother. Her biggest dream is to be recognized as a Chef and while her dream does not become a reality, the girl works as children's ..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BOTg5YzhjYjYtYmM0ZC00NTY2LTk0NjItYWRiMWJlNTcyODVlXkEyXkFqcGdeQXVyMjI4NTMzOQ@@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt8134338",
+        "title": "April Skies",
+        "imdbrating": 8.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Three stories based in three countries in Europe. Three languages with three sets of peoples, all intertwine to the same tragedy."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNzZhMDM5ZWMtMjFlYi00NTRiLTliMTItMGRmOTZjZGIzMTY3XkEyXkFqcGdeQXVyODUxOTgxNzU@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt8124462",
+        "title": "Three Blacks and a Jew Walk Into a Bar",
+        "imdbrating": 8.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Three Black Teens persuade their forty something Jewish Neighbor to drive them from Miami to New York for a wedding. What could go wrong? What unfolds is a story of hysterical mishaps and a heartwarming coming of age adventure touching on racism, sexuality, and facing fear."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BODVmY2IwMzQtZTRiYy00MGM0LWIwNTItMzliMTQwNjQwZGJhXkEyXkFqcGdeQXVyNjE1OTI2Mjk@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt8074440",
+        "title": "Nothing Ever Happened",
+        "imdbrating": 8.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMmJmOWJkNDUtMDMzZi00ZmY3LWExYmEtYTYwMzNkMWEwNTlkXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+        "genre": "Biography",
+        "imdbid": "tt8051894",
+        "title": "The Hill",
+        "imdbrating": 8.0,
+        "released": 2022,
+        "type": "movie"
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMjExNTdlZmYtMjYxNS00OWIwLWFlYjctNjFkZTEwZmE1NzFhXkEyXkFqcGdeQXVyODU1NDM5MDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt8041806",
+        "title": "Deep Astronomy and the Romantic Sciences",
+        "imdbrating": 7.9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Grace is a robot incognito whose primary function is to represent humanity based on a generalization created from all social media and wireless communications. Rudy is her final test."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMWI2NGY2MzYtY2QzOC00YTFjLTlmNzQtMTZiZWM4YmNkZGRmXkEyXkFqcGdeQXVyNjUzMjQ2MTM@._V1_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt8038724",
+        "title": "Carnation",
+        "imdbrating": 8.0,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "The Empyrean is an impressionistic, remarkably moving portrait of love and the ways in which we attempt to transcend our mortality. Three couples and a young telepath are entwined on a ..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BODA5Y2Y2NjAtZDM5ZS00YzgyLWI1NDQtMjAyNTY4NWExMjRkXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt8028222",
+        "title": "Working Class Heroes",
+        "imdbrating": 6.9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "The Professor and a group of illegal construction workers, left without money and basic rights, try to fight their bosses by all means they have left. Their bosses are building a huge \"..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZjVmNzRkNTEtNWVmYy00OTk0LWE5ZGMtOGY5NzNmOGQ1ZWJiXkEyXkFqcGdeQXVyMzk3Mzk5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Documentary",
+        "imdbid": "tt8000218",
+        "title": "Buried Treasure: A Musician's L.A. Reflection",
+        "imdbrating": 8.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZTYyOTgwMjgtYTYzMS00MGI3LWE3ZjgtNTkxM2NiYTFkMTJkXkEyXkFqcGdeQXVyMTQ4MTA5Mjg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+        "genre": "Horror",
+        "imdbid": "tt7990108",
+        "title": "Remember Me",
+        "imdbrating": 8.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYzY1NTZlNmQtOTE2MC00MDIxLWI5MWYtNDQ1NWU1MWFkNzE2XkEyXkFqcGdeQXVyNTI4NTEyMzQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Action",
+        "imdbid": "tt7984562",
+        "title": "Statica",
+        "imdbrating": 7.9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Detective Gore Stoecker embarks on a missing persons case and encounters bits of enlightenment as he gets closer to his goals."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYTliYjNhMTMtMDBjNS00NWZiLTg5ZmItNWIxYzNjNGNlZWJjXkEyXkFqcGdeQXVyNjU0ODg0NDQ@._V1_UY268_CR21,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt7957716",
+        "title": "Srinagar",
+        "imdbrating": 8.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Based on today's time Kashmiri Pandit issue, The Hindus of the Kashmir Valley, a large majority of whom were Kashmiri Pandits, were forced to flee the Kashmir valley as a result of terrorism, on or after 20 January 1990."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZjhlMmIwZmYtNzE2NS00Y2FkLTg5MjAtYWZhN2Y4YjA0MjczXkEyXkFqcGdeQXVyOTE1MTM4MzI@._V1_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt9904252",
+        "title": "Nice & Naughty, A Christmas Story",
+        "imdbrating": 8.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A father's tradition of inviting less fortunate guest for Christmas takes a tragic turn when he is murdered. One year later, his daughter decides to honor his memory by carrying on the ..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYzJjODg2NTktYmIxMy00NzlkLWIxZTUtOTJmNTY4ODUzZWI1XkEyXkFqcGdeQXVyNjc5MjU1MDg@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Crime",
+        "imdbid": "tt7893978",
+        "title": "Kill the Darling",
+        "imdbrating": 7.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Suffering from a sudden amnesia, an ambitious young writer embarks on a journey to know the truth about his girlfriend's disappearance."
+      },
+      {
+        "imageurl": "https://scontent.fupg6-1.fna.fbcdn.net/v/t39.30808-6/241805693_4091126327666578_4859139262796676761_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=8631f5&_nc_ohc=0e8Vw_zr9lMAX8aiw8K&_nc_ht=scontent.fupg6-1.fna&oh=00_AfC1ExaKMJ9fC4ageshYpNYKF5Cek5yg83WWRnUKbk4KIA&oe=64D60ED8",
+        "genre": "Drama",
+        "imdbid": "tt7893084",
+        "title": "Falkland Square",
+        "imdbrating": 7.6,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Dave Simms is a Falkland War veteran and a survivor of the Battle for Goose Green, but now lives on the streets of Portsmouth. Suffering from PTSD (Posttraumatic Stress Disorder) and ..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYTQzMWEzNTItNGVkNS00MDJhLWFmNzAtMTE1NjYzOGMyMjJhXkEyXkFqcGdeQXVyMTY0MDQxMTM@._V1_UY268_CR14,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt9783698",
+        "title": "The Uncanny",
+        "imdbrating": 8.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "After a life altering trauma, Zouzou, a therapist, seeks a fresh start in a new home. As she attempts to focus on her own fledgling art career, she soon realizes you can't outrun memories. ..."
+      },
+      {
+        "imageurl": "https://upload.wikimedia.org/wikipedia/id/7/7f/Suzume_no_Tojimari_poster.jpg",
+        "genre": "Action",
+        "imdbid": "tt16428256",
+        "title": "Suzume no Tojimari",
+        "imdbrating": 7.7,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A modern action adventure road story where a 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over in Japan."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZDcyOTI4MWUtYWJiMy00MTU0LTk3ZGYtYzcyZDE3ZDQ5ZjEyXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Adventure",
+        "imdbid": "tt7813294",
+        "title": "A Fairy Tale After All",
+        "imdbrating": 5.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A stubborn teenage girl finds herself confronted by whimsical characters when she is transported into a world of fantasy and fairy tales while attending a school marionette show."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNzEzMzA4YzMtNGMxMy00NTFjLTlkOTYtYTcxYmY3YmZlNWM0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt7806812",
+        "title": "Tantum",
+        "imdbrating": 8.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "In the distant future, a father and daughter survive in a weather station with the support of a Artificial Intelligence. But an unexpected event will turn their stay into a race to survive."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNTQyNDIyODktMThiZi00OTViLTg4NWYtOTc0NzA0NWI0ZDljXkEyXkFqcGdeQXVyNTQ1NTIxMTg@._V1_UY268_CR147,0,182,268_AL_.jpg",
+        "genre": "Biography",
+        "imdbid": "tt7770544",
+        "title": "The Everett Effect",
+        "imdbrating": 7.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "This film tells the story of a small town boy with big dreams of being a hollywood filmmaker, who ends up finding an alternate path in the chaotic world of gay porn. Learning to help people..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZGNhNmNlM2YtZGJmMC00NTc1LTgzOTEtNmVlNmVmZDA0MTM2XkEyXkFqcGdeQXVyMDk0Njg1Ng@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt7706034",
+        "title": "Herr Berger sucht einen Sohn",
+        "imdbrating": 1.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "If you do not have children, organize them ."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNDVmMWE1YmUtYTU2Yy00Njg1LTgwMzUtMGZmZGRlMjM1OTMyXkEyXkFqcGdeQXVyMzg0MjU2Mjc@._V1_UY268_CR69,0,182,268_AL_.jpg",
+        "genre": "Adventure",
+        "imdbid": "tt7680392",
+        "title": "Afterwards",
+        "imdbrating": 6.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "AFTERWARDS is a dark yet spiritual drama that follows the journey of a man who's been abandoned in the frozen north for thirty years after his death."
+      },
+      {
+        "imageurl": "https://lumiere-a.akamaihd.net/v1/images/p_20cs_deathonthenile_22532_4516b236.jpeg?region=0%2C0%2C540%2C810",
+        "genre": "Crime",
+        "imdbid": "tt7657566",
+        "title": "Death on the Nile",
+        "imdbrating": 8.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BOTlkNzdhZjYtMjI4MS00OWM2LWFlMGEtZDk0MDNmZjRjNGY4XkEyXkFqcGdeQXVyMTk0MTk3MTc@._V1_.jpg",
+        "genre": "Biography",
+        "imdbid": "tt7643430",
+        "title": "Mirroring Michael Jackson",
+        "imdbrating": 7.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A documentary film honoring the King of Pop showcasing how Michael Jackson's groundbreaking musical legacy has influenced performers of the past, present and future."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BODk4ZWIwZWQtY2Q5NS00ZWQ1LTllZTEtMDJjNDFhNTBjOGVkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg",
+        "genre": "Action",
+        "imdbid": "tt7599146",
+        "title": "Sound of Freedom",
+        "imdbrating": 8.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "The story of Tim Ballard (Jim Caviezel), a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNDYxZWQ0ZWQtYzMxMC00YTkwLThkZTgtOWQzY2E2YmNhOTA4XkEyXkFqcGdeQXVyMTk5MjY1NDM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt7594192",
+        "title": "Beautiful",
+        "imdbrating": 7.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BM2JlMDAxYmMtZTczYy00M2JkLWFiMDEtZTAzZTFlZjYwMmQyXkEyXkFqcGdeQXVyODE5MjAzNzk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt7584540",
+        "title": "The Format",
+        "imdbrating": 8.6,
+        "released": 2022,
+        "synopsis": "Son inherits his family's video store and with the help of his best friend and paranormal investigators tries to get rid of the evil entity that is killing his customers.",
+        "type": "movie"
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYjEyMmM4ZTItMjkzMC00OWE4LThhODEtMDFmYjYwMGNkZTk4XkEyXkFqcGdeQXVyNjUwMTg4NzA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+        "genre": "Adventure",
+        "imdbid": "tt7568926",
+        "title": "California Dreamin'",
+        "imdbrating": 6.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "When an aspiring actor finally gets offered a role he has been waiting for his entire life something terrible happens that forces him to cross the United States where he meets a girl that changes his entire life."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZWZlYThlMGQtMzQwMy00NDc1LWE1N2UtMmZiNTY1Mjk3ZDNmXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_UY268_CR43,0,182,268_AL_.jpg",
+        "genre": "Documentary",
+        "imdbid": "tt7556040",
+        "title": "Fukafutokyu",
+        "imdbrating": 7.1,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMDA3NGZhNjItOTdjNC00MmJmLWEwOWItODZhOWZhNmFlYzcyXkEyXkFqcGdeQXVyMDMyNDk0OA@@._V1_UY268_CR12,0,182,268_AL_.jpg",
+        "genre": "Thriller",
+        "imdbid": "tt7542096",
+        "title": "Loose Luck",
+        "imdbrating": 6.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYTcwMmM4MDgtMWVmOS00ZjBhLTg2M2EtOTRjZTAxZjhlMTRjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR108,0,182,268_AL_.jpg",
+        "genre": "Action",
+        "imdbid": "tt7529298",
+        "title": "Attack",
+        "imdbrating": 7.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYmNjMWQ3ZTEtOWMwOC00ODg0LTgzMTUtOGNhYzA0ZmYxYWI2XkEyXkFqcGdeQXVyMjM3MTY3Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt7527170",
+        "title": "Dooley",
+        "imdbrating": 5.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Mortal sins are invariably punished, if even for the wrong reason."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BOGVhZmJjNDktMmI0Mi00Yzk1LTlkMTAtNzUzMjBjY2JiNWQ1XkEyXkFqcGdeQXVyNzMxNTY1NA@@._V1_UY268_CR46,0,182,268_AL_.jpg",
+        "genre": "Comedy",
+        "imdbid": "tt7504794",
+        "title": "All Hallows' Steve",
+        "imdbrating": 6.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BMDE1MTZmNDAtZjFiNi00NzQ4LTk3YjItZTU3MDU1YjRiNTYzXkEyXkFqcGdeQXVyNjI4ODkzMzU@._V1_UY268_CR3,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt7489716",
+        "title": "The Intersection",
+        "imdbrating": 7.5,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Told in real time on Christmas Eve--Two people are dead, 85 minutes apart. This is the story about those 85 minutes, and the five lives caught in the crossfire."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYmE1MjEyM2UtMWU5NS00NjRjLWFlY2ItMTU5Mjk4ODk0MzdjXkEyXkFqcGdeQXVyOTE3NzY4OTQ@._V1_UY268_CR33,0,182,268_AL_.jpg",
+        "genre": "Action",
+        "imdbid": "tt9893652",
+        "title": "Divine Mercenary",
+        "imdbrating": 5.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BZTBlOTczMzctY2QzYi00OGI0LTk3MTYtM2NjMzA1N2MwYjAyXkEyXkFqcGdeQXVyNjk1MTU4ODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Biography",
+        "imdbid": "tt9883664",
+        "title": "Equally Friends",
+        "imdbrating": 5.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "A outsider comes to town and meets Three people in town as she meets them she gets each of them to become her friend and accept her for who she is, A LGBT movie about People Accepting people for who they are."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNDM2NDMzNWYtMWQxZS00ZjBhLThiZjUtMmQ4ZWJhNWUwZmU0XkEyXkFqcGdeQXVyMjQ4MzIyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Documentary",
+        "imdbid": "tt7470986",
+        "title": "The Guest List",
+        "imdbrating": 9,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Fates of the innocent and guilty collide on the night of America's deadliest rock concert. It could fairly be said that music and rock culture drew one hundred innocent people to their ..."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BYmRlYmQxODAtOTk4NS00ZmNlLTk2NzUtYWY0MDc4ZmZlYjE4XkEyXkFqcGdeQXVyNTIyNTI3ODI@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Thriller",
+        "imdbid": "tt7466970",
+        "title": "Raquel 1,1",
+        "imdbrating": 7.8,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Raquel is a teenager who moves with her father to a small town, in search of a new life. During her first days there she believes she is given an important and controversial mission related to the Bible."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BNDljMWQxZjQtODllNi00MzljLTg3ZGUtNDU4Zjk2NTAzMWQ2XkEyXkFqcGdeQXVyNDY3NTMzOTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "genre": "Adventure",
+        "imdbid": "tt7466810",
+        "title": "777 Charlie",
+        "imdbrating": 6.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "The protagonist is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who enters his life and gives him a new perspective towards it."
+      },
+      {
+        "imageurl": "https://upload.wikimedia.org/wikipedia/en/2/29/Takkar_2023_poster.jpg",
+        "genre": "Drama",
+        "imdbid": "tt9872558",
+        "title": "Takkar",
+        "imdbrating": 9.5,
+        "released": 2023,
+        "type": "movie",
+        "synopsis": "Sathuyki is a man of words who helps people solve their issues by hook or crook. Once, while doing so, he gets caught by his own father, who is a police inspector"
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BODZkZTkwNjAtMmZkZS00Y2Y4LThhMjYtNjAyOTIwNzM0NDFkXkEyXkFqcGdeQXVyMTk5MjY1NDM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+        "genre": "Sci-Fi",
+        "imdbid": "tt7379804",
+        "title": "Yes",
+        "imdbrating": 5.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": ""
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BOWM4YTkwOWUtNDViYi00MjFiLTg4ODQtZjAzZTY0YzIxY2M1XkEyXkFqcGdeQXVyMTk0NDE5MzM@._V1_UY268_CR13,0,182,268_AL_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt7350404",
+        "title": "The Nazi Officer's Wife",
+        "imdbrating": 7.2,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "Finding herself trapped in Munich, the heartland of Hitler's Nazi Germany, Edith Hahn Beer is facing imminent deportation to the death Camps in the East - and certain death. This is her True Story."
+      },
+      {
+        "imageurl": "https://m.media-amazon.com/images/M/MV5BOWUzZDVkMzktZjdlMS00ZjhiLTkwYzctMmE0MDgzN2IzNjZjXkEyXkFqcGdeQXVyOTk4MzQzNTY@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Drama",
+        "imdbid": "tt9858058",
+        "title": "8 Days with Hopper",
+        "imdbrating": 6.3,
+        "released": 2022,
+        "type": "movie",
+        "synopsis": "1970, American sweetheart Michelle Phillips is untangling herself from a recent marriage to the leader of the Mamas and the Papas, John Phillips. Pressure to record a final album for the ..."
+      }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "name": "Action",
+            "movies": [
+                {
+                "imageurl": "https://m.media-amazon.com/images/M/MV5BYzY1NTZlNmQtOTE2MC00MDIxLWI5MWYtNDQ1NWU1MWFkNzE2XkEyXkFqcGdeQXVyNTI4NTEyMzQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                "genre": "Action",
+                "imdbid": "tt7984562",
+                "title": "Statica",
+                "imdbrating": 7.9,
+                "released": 2022,
+                "type": "movie",
+                "synopsis": "Detective Gore Stoecker embarks on a missing persons case and encounters bits of enlightenment as he gets closer to his goals."
+              },
+              {
+                "imageurl": "https://m.media-amazon.com/images/M/MV5BMWYyNTE2ODYtYzNhZC00NGNjLWExYWMtOTBiNzZjZmRhNDg5XkEyXkFqcGdeQXVyNTg1MzIyNjM@._V1_UY268_CR147,0,182,268_AL_.jpg",
+                "genre": "Action",
+                "imdbid": "tt7856614",
+                "title": "Organic Man: Returns with Avengeance",
+                "imdbrating": 7.8,
+                "released": 2022,
+                "type": "movie",
+                "synopsis": "Your healthiest superhero in the world the 'Organic Man' returns to his science lab to create more organic pills to energize and transform all humans to a everlasting healthier lifestyle ..."
+              },
+              {
+                "imageurl": "https://m.media-amazon.com/images/M/MV5BODk4ZWIwZWQtY2Q5NS00ZWQ1LTllZTEtMDJjNDFhNTBjOGVkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg",
+                "genre": "Action",
+                "imdbid": "tt7599146",
+                "title": "Sound of Freedom",
+                "imdbrating": 8.3,
+                "released": 2022,
+                "type": "movie",
+                "synopsis": "The story of Tim Ballard (Jim Caviezel), a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers."
+              },
+              {
+                "imageurl": "https://m.media-amazon.com/images/M/MV5BYTcwMmM4MDgtMWVmOS00ZjBhLTg2M2EtOTRjZTAxZjhlMTRjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR108,0,182,268_AL_.jpg",
+                "genre": "Action",
+                "imdbid": "tt7529298",
+                "title": "Attack",
+                "imdbrating": 7.3,
+                "released": 2022,
+                "type": "movie",
+                "synopsis": ""
+              },
+              {
+                "imageurl": "https://m.media-amazon.com/images/M/MV5BYmE1MjEyM2UtMWU5NS00NjRjLWFlY2ItMTU5Mjk4ODk0MzdjXkEyXkFqcGdeQXVyOTE3NzY4OTQ@._V1_UY268_CR33,0,182,268_AL_.jpg",
+                "genre": "Action",
+                "imdbid": "tt9893652",
+                "title": "Divine Mercenary",
+                "imdbrating": 5.3,
+                "released": 2022,
+                "type": "movie",
+                "synopsis": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work."
+              }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Adventure",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BZDcyOTI4MWUtYWJiMy00MTU0LTk3ZGYtYzcyZDE3ZDQ5ZjEyXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Adventure",
+                    "imdbid": "tt7813294",
+                    "title": "A Fairy Tale After All",
+                    "imdbrating": 5.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A stubborn teenage girl finds herself confronted by whimsical characters when she is transported into a world of fantasy and fairy tales while attending a school marionette show."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNDVmMWE1YmUtYTU2Yy00Njg1LTgwMzUtMGZmZGRlMjM1OTMyXkEyXkFqcGdeQXVyMzg0MjU2Mjc@._V1_UY268_CR69,0,182,268_AL_.jpg",
+                    "genre": "Adventure",
+                    "imdbid": "tt7680392",
+                    "title": "Afterwards",
+                    "imdbrating": 6.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "AFTERWARDS is a dark yet spiritual drama that follows the journey of a man who's been abandoned in the frozen north for thirty years after his death."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BYjEyMmM4ZTItMjkzMC00OWE4LThhODEtMDFmYjYwMGNkZTk4XkEyXkFqcGdeQXVyNjUwMTg4NzA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+                    "genre": "Adventure",
+                    "imdbid": "tt7568926",
+                    "title": "California Dreamin'",
+                    "imdbrating": 6.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "When an aspiring actor finally gets offered a role he has been waiting for his entire life something terrible happens that forces him to cross the United States where he meets a girl that changes his entire life."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNDljMWQxZjQtODllNi00MzljLTg3ZGUtNDU4Zjk2NTAzMWQ2XkEyXkFqcGdeQXVyNDY3NTMzOTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Adventure",
+                    "imdbid": "tt7466810",
+                    "title": "777 Charlie",
+                    "imdbrating": 6.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "The protagonist is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who enters his life and gives him a new perspective towards it."
+                  }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Biography",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMmJmOWJkNDUtMDMzZi00ZmY3LWExYmEtYTYwMzNkMWEwNTlkXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+                    "genre": "Biography",
+                    "imdbid": "tt8051894",
+                    "title": "The Hill",
+                    "imdbrating": 8.0,
+                    "released": 2022,
+                    "type": "movie"
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNTQyNDIyODktMThiZi00OTViLTg4NWYtOTc0NzA0NWI0ZDljXkEyXkFqcGdeQXVyNTQ1NTIxMTg@._V1_UY268_CR147,0,182,268_AL_.jpg",
+                    "genre": "Biography",
+                    "imdbid": "tt7770544",
+                    "title": "The Everett Effect",
+                    "imdbrating": 7.8,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "This film tells the story of a small town boy with big dreams of being a hollywood filmmaker, who ends up finding an alternate path in the chaotic world of gay porn. Learning to help people..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BOTlkNzdhZjYtMjI4MS00OWM2LWFlMGEtZDk0MDNmZjRjNGY4XkEyXkFqcGdeQXVyMTk0MTk3MTc@._V1_.jpg",
+                    "genre": "Biography",
+                    "imdbid": "tt7643430",
+                    "title": "Mirroring Michael Jackson",
+                    "imdbrating": 7.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A documentary film honoring the King of Pop showcasing how Michael Jackson's groundbreaking musical legacy has influenced performers of the past, present and future."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BZTBlOTczMzctY2QzYi00OGI0LTk3MTYtM2NjMzA1N2MwYjAyXkEyXkFqcGdeQXVyNjk1MTU4ODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Biography",
+                    "imdbid": "tt9883664",
+                    "title": "Equally Friends",
+                    "imdbrating": 5.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A outsider comes to town and meets Three people in town as she meets them she gets each of them to become her friend and accept her for who she is, A LGBT movie about People Accepting people for who they are."
+                  }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Comedy",
+            "movies": [
+                {
+                    "imageurl":"https://m.media-amazon.com/images/M/MV5BMDg0ZTk4M2UtNjMzOS00YTc5LTkzOWEtYjViZTE1N2FlNmE4XkEyXkFqcGdeQXVyMjM1NjkxOTI@._V1_UY268_CR11,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8288142",
+                    "title": "The Gag Date",
+                    "imdbrating": 7.0,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Jim Peters is an older man who finds himself trying to get back into the love scene. However it is not as easy as he thought. From finding the right woman, to the expensive dates and even ..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNTA1NjU0MzgtZTlmYS00MGNjLWE0ZmQtZjY4MmMyMGE0YTgyXkEyXkFqcGdeQXVyMzUzOTc2MTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8286236",
+                    "title": "Chaser",
+                    "imdbrating": 7.5,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A video editor discovers the power to re-edit the last 24 hours."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNTA1NjU0MzgtZTlmYS00MGNjLWE0ZmQtZjY4MmMyMGE0YTgyXkEyXkFqcGdeQXVyMzUzOTc2MTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8286236",
+                    "title": "Chaser",
+                    "imdbrating": 7.5,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A video editor discovers the power to re-edit the last 24 hours."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMWYzY2IwOGEtM2UxYi00MzFhLThkZTEtOGUzZmUzMjc2NTRmXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8174412",
+                    "title": "Funny Pages",
+                    "imdbrating": 7.4,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A bitingly funny coming-of-age story of a teenage cartoonist who rejects the comforts of his suburban life in a misguided quest for soul."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNTFmMGNlOTItNDFlYy00ZDFiLTkxMTEtNDU0YTk0ZWZiZWU1XkEyXkFqcGdeQXVyOTc1MTE1ODM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8147518",
+                    "title": "Uma Pitada de Sorte",
+                    "imdbrating": 8.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Pérola lives with her mother and her younger adopted brother. Her biggest dream is to be recognized as a Chef and while her dream does not become a reality, the girl works as children's ..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNzZhMDM5ZWMtMjFlYi00NTRiLTliMTItMGRmOTZjZGIzMTY3XkEyXkFqcGdeQXVyODUxOTgxNzU@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8124462",
+                    "title": "Three Blacks and a Jew Walk Into a Bar",
+                    "imdbrating": 8.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Three Black Teens persuade their forty something Jewish Neighbor to drive them from Miami to New York for a wedding. What could go wrong? What unfolds is a story of hysterical mishaps and a heartwarming coming of age adventure touching on racism, sexuality, and facing fear."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMjExNTdlZmYtMjYxNS00OWIwLWFlYjctNjFkZTEwZmE1NzFhXkEyXkFqcGdeQXVyODU1NDM5MDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt8041806",
+                    "title": "Deep Astronomy and the Romantic Sciences",
+                    "imdbrating": 7.9,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Grace is a robot incognito whose primary function is to represent humanity based on a generalization created from all social media and wireless communications. Rudy is her final test."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMjQyYWQ4MTMtODVmYi00ODYzLWE1NTktM2U2OTgwMDFhMjA5XkEyXkFqcGdeQXVyOTE1MTM4MzI@._V1_UY268_CR87,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt9904252",
+                    "title": "Nice & Naughty, A Christmas Story",
+                    "imdbrating": 8.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A father's tradition of inviting less fortunate guest for Christmas takes a tragic turn when he is murdered. One year later, his daughter decides to honor his memory by carrying on the ..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BZGNhNmNlM2YtZGJmMC00NTc1LTgzOTEtNmVlNmVmZDA0MTM2XkEyXkFqcGdeQXVyMDk0Njg1Ng@@._V1_UY268_CR3,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt7706034",
+                    "title": "Herr Berger sucht einen Sohn",
+                    "imdbrating": 1.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "If you do not have children, organize them ."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BM2JlMDAxYmMtZTczYy00M2JkLWFiMDEtZTAzZTFlZjYwMmQyXkEyXkFqcGdeQXVyODE5MjAzNzk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt7584540",
+                    "title": "The Format",
+                    "imdbrating": 8.6,
+                    "released": 2022,
+                    "synopsis": "Son inherits his family's video store and with the help of his best friend and paranormal investigators tries to get rid of the evil entity that is killing his customers.",
+                    "type": "movie"
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BOGVhZmJjNDktMmI0Mi00Yzk1LTlkMTAtNzUzMjBjY2JiNWQ1XkEyXkFqcGdeQXVyNzMxNTY1NA@@._V1_UY268_CR46,0,182,268_AL_.jpg",
+                    "genre": "Comedy",
+                    "imdbid": "tt7504794",
+                    "title": "All Hallows' Steve",
+                    "imdbrating": 6.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Crime",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNTAxMWYyYzYtNWZkMi00NDVkLWE0NDgtYTMzNGI0NDVhNGI0XkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_UY268_CR9,0,182,268_AL_.jpg",
+                    "genre": "Crime",
+                    "imdbid": "tt8282400",
+                    "title": "Saade Aale",
+                    "imdbrating": 8.7,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Two athletic brothers fall in the fastidious and lethal labyrinth of society."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BYzJjODg2NTktYmIxMy00NzlkLWIxZTUtOTJmNTY4ODUzZWI1XkEyXkFqcGdeQXVyNjc5MjU1MDg@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Crime",
+                    "imdbid": "tt7893978",
+                    "title": "Kill the Darling",
+                    "imdbrating": 7.8,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Suffering from a sudden amnesia, an ambitious young writer embarks on a journey to know the truth about his girlfriend's disappearance."
+                  },
+                  {
+                    "imageurl": "https://lumiere-a.akamaihd.net/v1/images/p_20cs_deathonthenile_22532_4516b236.jpeg?region=0%2C0%2C540%2C810",
+                    "genre": "Crime",
+                    "imdbid": "tt7657566",
+                    "title": "Death on the Nile",
+                    "imdbrating": 6.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress."
+                  }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Documentary",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMGZjNGZjNTQtMjNlMi00ZjJlLWEyYjgtZjIwYTNmMjE1Mzk1XkEyXkFqcGdeQXVyNDk5NjE5NTg@._V1_UY268_CR4,0,182,268_AL_.jpg",
+                    "genre": "Documentary",
+                    "imdbid": "tt8151794",
+                    "title": "Capel Green",
+                    "imdbrating": 7.8,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Capel Green is a powerful, independent feature length documentary film about the myriad of strange occurrences which took place in and around Rendlesham Forest, close to the twin US Air ..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BZjVmNzRkNTEtNWVmYy00OTk0LWE5ZGMtOGY5NzNmOGQ1ZWJiXkEyXkFqcGdeQXVyMzk3Mzk5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Documentary",
+                    "imdbid": "tt8000218",
+                    "title": "Buried Treasure: A Musician's L.A. Reflection",
+                    "imdbrating": 8.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BZWZlYThlMGQtMzQwMy00NDc1LWE1N2UtMmZiNTY1Mjk3ZDNmXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_UY268_CR43,0,182,268_AL_.jpg",
+                    "genre": "Documentary",
+                    "imdbid": "tt7556040",
+                    "title": "Fukafutokyu",
+                    "imdbrating": 7.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNDM2NDMzNWYtMWQxZS00ZjBhLThiZjUtMmQ4ZWJhNWUwZmU0XkEyXkFqcGdeQXVyMjQ4MzIyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Documentary",
+                    "imdbid": "tt7470986",
+                    "title": "The Guest List",
+                    "imdbrating": 9,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Fates of the innocent and guilty collide on the night of America's deadliest rock concert. It could fairly be said that music and rock culture drew one hundred innocent people to their ..."
+                  }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Drama",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BODFhYWJmODgtMzBmZS00YWJkLTk4ZDAtNmU5ZDc2MTcyZjJjXkEyXkFqcGdeQXVyNTYwNTM0MjQ@._V1_UY268_CR12,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt8228826",
+                    "title": "Freedom on Our Mind",
+                    "imdbrating": 8.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "A diverse group of film students discover the connections between their own lives and the epic struggle for the Civil Rights Act of 1964 while trying to finish their graduation film in the Nation's oldest city."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BOTg5YzhjYjYtYmM0ZC00NTY2LTk0NjItYWRiMWJlNTcyODVlXkEyXkFqcGdeQXVyMjI4NTMzOQ@@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt8134338",
+                    "title": "April Skies",
+                    "imdbrating": 8.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Three stories based in three countries in Europe. Three languages with three sets of peoples, all intertwine to the same tragedy."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BODVmY2IwMzQtZTRiYy00MGM0LWIwNTItMzliMTQwNjQwZGJhXkEyXkFqcGdeQXVyNjE1OTI2Mjk@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt8074440",
+                    "title": "Nothing Ever Happened",
+                    "imdbrating": 8.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMWI2NGY2MzYtY2QzOC00YTFjLTlmNzQtMTZiZWM4YmNkZGRmXkEyXkFqcGdeQXVyNjUzMjQ2MTM@._V1_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt8038724",
+                    "title": "Carnation",
+                    "imdbrating": 8.0,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "The Empyrean is an impressionistic, remarkably moving portrait of love and the ways in which we attempt to transcend our mortality. Three couples and a young telepath are entwined on a ..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BODA5Y2Y2NjAtZDM5ZS00YzgyLWI1NDQtMjAyNTY4NWExMjRkXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt8028222",
+                    "title": "Working Class Heroes",
+                    "imdbrating": 6.9,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "The Professor and a group of illegal construction workers, left without money and basic rights, try to fight their bosses by all means they have left. Their bosses are building a huge \"..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BYTliYjNhMTMtMDBjNS00NWZiLTg5ZmItNWIxYzNjNGNlZWJjXkEyXkFqcGdeQXVyNjU0ODg0NDQ@._V1_UY268_CR21,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt7957716",
+                    "title": "Srinagar",
+                    "imdbrating": 8.8,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Based on today's time Kashmiri Pandit issue, The Hindus of the Kashmir Valley, a large majority of whom were Kashmiri Pandits, were forced to flee the Kashmir valley as a result of terrorism, on or after 20 January 1990."
+                  },
+                  {
+                    "imageurl": "https://scontent.fupg6-1.fna.fbcdn.net/v/t39.30808-6/241805693_4091126327666578_4859139262796676761_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=8631f5&_nc_ohc=0e8Vw_zr9lMAX8aiw8K&_nc_ht=scontent.fupg6-1.fna&oh=00_AfC1ExaKMJ9fC4ageshYpNYKF5Cek5yg83WWRnUKbk4KIA&oe=64D60ED8",
+                    "genre": "Drama",
+                    "imdbid": "tt7893084",
+                    "title": "Falkland Square",
+                    "imdbrating": 7.6,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Dave Simms is a Falkland War veteran and a survivor of the Battle for Goose Green, but now lives on the streets of Portsmouth. Suffering from PTSD (Posttraumatic Stress Disorder) and ..."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNzY5Yjg4MDYtNThmOC00ODU0LWIzYjQtOWJhYWFjN2MxZDk0XkEyXkFqcGdeQXVyNDMyNTgyNDQ@._V1_UY268_CR146,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt9899344",
+                    "title": "GodHead: In a fiction, in a dream of passion",
+                    "imdbrating": 8.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Dreamers in a lonely circus."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNzEzMzA4YzMtNGMxMy00NTFjLTlkOTYtYTcxYmY3YmZlNWM0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt7806812",
+                    "title": "Tantum",
+                    "imdbrating": 8.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "In the distant future, a father and daughter survive in a weather station with the support of a Artificial Intelligence. But an unexpected event will turn their stay into a race to survive."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNDYxZWQ0ZWQtYzMxMC00YTkwLThkZTgtOWQzY2E2YmNhOTA4XkEyXkFqcGdeQXVyMTk5MjY1NDM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt7594192",
+                    "title": "Beautiful",
+                    "imdbrating": 7.1,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BYmNjMWQ3ZTEtOWMwOC00ODg0LTgzMTUtOGNhYzA0ZmYxYWI2XkEyXkFqcGdeQXVyMjM3MTY3Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt7527170",
+                    "title": "Dooley",
+                    "imdbrating": 5.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Mortal sins are invariably punished, if even for the wrong reason."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMDE1MTZmNDAtZjFiNi00NzQ4LTk3YjItZTU3MDU1YjRiNTYzXkEyXkFqcGdeQXVyNjI4ODkzMzU@._V1_UY268_CR3,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt7489716",
+                    "title": "The Intersection",
+                    "imdbrating": 7.5,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Told in real time on Christmas Eve--Two people are dead, 85 minutes apart. This is the story about those 85 minutes, and the five lives caught in the crossfire."
+                  },
+                  {
+                    "imageurl": "https://upload.wikimedia.org/wikipedia/en/2/29/Takkar_2023_poster.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt9872558",
+                    "title": "Takkar",
+                    "imdbrating": 9.5,
+                    "released": 2023,
+                    "type": "movie",
+                    "synopsis": "Sathuyki is a man of words who helps people solve their issues by hook or crook. Once, while doing so, he gets caught by his own father, who is a police inspector"
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BOWM4YTkwOWUtNDViYi00MjFiLTg4ODQtZjAzZTY0YzIxY2M1XkEyXkFqcGdeQXVyMTk0NDE5MzM@._V1_UY268_CR13,0,182,268_AL_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt7350404",
+                    "title": "The Nazi Officer's Wife",
+                    "imdbrating": 7.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Finding herself trapped in Munich, the heartland of Hitler's Nazi Germany, Edith Hahn Beer is facing imminent deportation to the death Camps in the East - and certain death. This is her True Story."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BOWUzZDVkMzktZjdlMS00ZjhiLTkwYzctMmE0MDgzN2IzNjZjXkEyXkFqcGdeQXVyOTk4MzQzNTY@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Drama",
+                    "imdbid": "tt9858058",
+                    "title": "8 Days with Hopper",
+                    "imdbrating": 6.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "1970, American sweetheart Michelle Phillips is untangling herself from a recent marriage to the leader of the Mamas and the Papas, John Phillips. Pressure to record a final album for the ..."
+                  }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Horror",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BNzQ0ZTg1M2UtYjEyOC00MjAyLWI2YTgtYzQzNTAzOTk1ZmI3XkEyXkFqcGdeQXVyNjk2MTY2NjI@._V1_UY268_CR15,0,182,268_AL_.jpg",
+                    "genre": "Horror",
+                    "id": "tt8290478",
+                    "title": "The Sleep Experiment",
+                    "imdbrating": 7.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Two detectives begin an investigation into a disastrous secret military experiment where five prisoners were kept awake for thirty days in a sealed gas chamber."
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BZTYyOTgwMjgtYTYzMS00MGI3LWE3ZjgtNTkxM2NiYTFkMTJkXkEyXkFqcGdeQXVyMTQ4MTA5Mjg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+                    "genre": "Horror",
+                    "imdbid": "tt7990108",
+                    "title": "Remember Me",
+                    "imdbrating": 8.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Sci-Fi",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BODZkZTkwNjAtMmZkZS00Y2Y4LThhMjYtNjAyOTIwNzM0NDFkXkEyXkFqcGdeQXVyMTk5MjY1NDM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+                    "genre": "Sci-Fi",
+                    "imdbid": "tt7379804",
+                    "title": "Yes",
+                    "imdbrating": 5.3,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Thriller",
+            "movies": [
+                {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMTAxMTU4OTgtYTczZC00N2E4LWI0NzQtZjg2NTRmYjNjMzNjXkEyXkFqcGdeQXVyMzg2MDg5MDc@._V1_UY268_CR4,0,182,268_AL_.jpg",
+                    "genre": "Thriller",
+                    "imdbid": "tt8241048",
+                    "title": "Girl from the Woods",
+                    "imdbrating": 8.0,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BMDA3NGZhNjItOTdjNC00MmJmLWEwOWItODZhOWZhNmFlYzcyXkEyXkFqcGdeQXVyMDMyNDk0OA@@._V1_UY268_CR12,0,182,268_AL_.jpg",
+                    "genre": "Thriller",
+                    "imdbid": "tt7542096",
+                    "title": "Loose Luck",
+                    "imdbrating": 6.2,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": ""
+                  },
+                  {
+                    "imageurl": "https://m.media-amazon.com/images/M/MV5BYmRlYmQxODAtOTk4NS00ZmNlLTk2NzUtYWY0MDc4ZmZlYjE4XkEyXkFqcGdeQXVyNTIyNTI3ODI@._V1_FMjpg_UX1000_.jpg",
+                    "genre": "Thriller",
+                    "imdbid": "tt7466970",
+                    "title": "Raquel 1,1",
+                    "imdbrating": 7.8,
+                    "released": 2022,
+                    "type": "movie",
+                    "synopsis": "Raquel is a teenager who moves with her father to a small town, in search of a new life. During her first days there she believes she is given an important and controversial mission related to the Bible."
+                  }
+            ]
+        }
+    ]
+  }
